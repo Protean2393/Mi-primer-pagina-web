@@ -14,7 +14,9 @@
             Configuracion
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="../areas/index.php">Area</a></li>
+          <li><a class="dropdown-item" href="../clientes/index.php">Clientes</a></li>
+          <li><a class="dropdown-item" href="../tickets/index.php">Tickets</a></li>
+            <li><a class="dropdown-item" href="../areas/index.php">Areas</a></li>
             <li><a class="dropdown-item" href="../estatus/index.php">Estatus</a></li>
             <li><a class="dropdown-item" href="../nivel/index.php">Niveles</a></li>
             <li><hr class="dropdown-divider"></li>
